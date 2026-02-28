@@ -11,7 +11,7 @@ What's here is what I wish someone had told me when I was starting.
 
 People transitioning from IT, or early-career folks trying to land their first security role.
 
-If you have zero IT experience and want to skip straight to security — read the
+If you have zero IT experience and want to skip straight to security, read the
 Common Mistakes section first.
 
 ---
@@ -28,7 +28,7 @@ The most consistently successful career changers I've seen followed this path:
 
 1. Get comfortable with Windows and Linux at a basic admin level
 2. Understand networking (IP, DNS, DHCP, firewalls, basic routing)
-3. Learn how Active Directory / identity works — this is everywhere in enterprise
+3. Learn how Active Directory / identity works. It is everywhere in enterprise.
 4. Pick a direction in security (SOC, GRC, cloud, pen testing, engineering)
 5. Build targeted skills and certs for that direction
 6. Get hands-on time in labs or entry-level IT roles
@@ -75,11 +75,11 @@ before you've touched a production environment.
 This is where most people underinvest. Certs alone won't get you hired.
 
 **Free / Low Cost**
-- [TryHackMe](https://tryhackme.com) — Best structured starting point for beginners
-- [Hack The Box](https://hackthebox.com) — More challenging, good for intermediate+
-- [Blue Team Labs Online](https://blueteamlabs.online) — SOC and defensive focus. Haven't used this personally, but it comes up frequently in the community.
-- [LetsDefend](https://letsdefend.io) — Incident response and SOC simulations
-- [Immersive Labs](https://immersivelabs.com) — Free for students at some universities
+- [TryHackMe](https://tryhackme.com): Best structured starting point for beginners
+- [Hack The Box](https://hackthebox.com): More challenging, good for intermediate+
+- [Blue Team Labs Online](https://blueteamlabs.online): SOC and defensive focus. Haven't used this personally, but it comes up frequently in the community.
+- [LetsDefend](https://letsdefend.io): Incident response and SOC simulations
+- [Immersive Labs](https://immersivelabs.com): Free for students at some universities
 
 **Set Up Your Own Home Lab**
 Running your own lab teaches you more than any platform:
@@ -95,19 +95,19 @@ If you're targeting cloud security: spin up a free AWS, Azure, or GCP account an
 ## Study Resources
 
 **Books**
-- *The Web Application Hacker's Handbook* — Web security fundamentals
-- *The Practice of Network Security Monitoring* — Richard Bejtlich, SOC and NSM
-- *Security Engineering* — Ross Anderson, for the deeper thinkers
+- *The Web Application Hacker's Handbook*: Web security fundamentals
+- *The Practice of Network Security Monitoring* by Richard Bejtlich: SOC and NSM
+- *Security Engineering* by Ross Anderson: for the deeper thinkers
 
 **Free / Online**
-- [SANS Reading Room](https://www.sans.org/white-papers/) — Real research, not vendor fluff
-- [MITRE ATT&CK](https://attack.mitre.org) — Learn the framework. Everyone uses it.
-- [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/) — Good visual map
+- [SANS Reading Room](https://www.sans.org/white-papers/): Real research, not vendor fluff
+- [MITRE ATT&CK](https://attack.mitre.org): Learn the framework. Everyone uses it.
+- [Paul Jerimy's Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/): Good visual map
 
 **Podcasts**
-- Darknet Diaries — Storytelling about real incidents (accessible to anyone)
-- Risky Business — Industry news for practitioners
-- Security Now — Deep dives on protocol and technical topics
+- Darknet Diaries: Storytelling about real incidents, accessible to anyone
+- Risky Business: Industry news for practitioners
+- Security Now: Deep dives on protocol and technical topics
 
 ---
 
@@ -124,7 +124,7 @@ Five certs and no hands-on time. Employers see this and wonder what you actually
 Set up a lab. Break something. Fix it. Document it. This is what separates candidates.
 
 **Targeting senior roles too early.**
-SOC analyst, IT help desk, junior sysadmin — these aren't beneath you.
+SOC analyst, IT help desk, junior sysadmin. These aren't beneath you.
 They're how you build the foundation that makes senior roles sustainable.
 
 **Ignoring soft skills.**
@@ -145,7 +145,7 @@ Find people ahead of you and stay in proximity to them.
   Free or low-cost student membership. Shows up on your resume.
 - **OWASP**: Application security focus. Good for web/app security interests.
 - **BSides conferences**: Community-run, low cost, more accessible than DEF CON or Black Hat
-- **Reddit**: r/cybersecurity, r/netsec, r/AskNetsec — search before posting
+- **Reddit**: r/cybersecurity, r/netsec, r/AskNetsec. Search before posting.
 - **Discord**: Many cert communities have study servers (TryHackMe, CompTIA, etc.)
 
 Volunteer to help run events. Speak if you get the chance. Mentorship goes both ways.
@@ -154,7 +154,7 @@ Volunteer to help run events. Speak if you get the chance. Mentorship goes both 
 
 ## How to Use This Guide
 
-- Pick a direction. Not "cybersecurity generally" — SOC, cloud, GRC, pen testing, engineering.
+- Pick a direction. Not "cybersecurity generally." Pick SOC, cloud, GRC, pen testing, or engineering.
 - Build the foundation. At least some IT experience or equivalent self-study.
 - Get one cert and one lab environment running.
 - Apply before you feel ready. You'll learn more in three months on the job than in six months studying.
@@ -163,7 +163,7 @@ Volunteer to help run events. Speak if you get the chance. Mentorship goes both 
 
 ## About
 
-Built by [Scott Altiparmak](https://scottaltiparmak.com) — Senior Information Security Engineer
+Built by [Scott Altiparmak](https://scottaltiparmak.com), Senior Information Security Engineer
 based in Miami. 8+ years across financial services, legal, and education.
 
 Director of Programming, South Florida ISSA. Former President, NSU eHACKERS.
